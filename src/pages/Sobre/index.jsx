@@ -23,7 +23,7 @@ function Sobre() {
 
                     <p>Estou sempre desenvolvendo e criando projetos para meu aprendizado <br></br>e estudando cada vez mais todos os tipos de linguagens</p>
 
-                    <a href='https://p2.trrsf.com.br/image/fget/cf/540/960/smart/images.terra.com/2024/03/27/799901720-01-shrek.jpg'><button>Veja meu curriculo<img className={styles.imagem} src={dowloud}></img></button></a>
+                    <a href='https://www.canva.com/design/DAGDuwBajMM/bEA42t8hlE_y1b2R8Zyvdw/view?utm_content=DAGDuwBajMM&utm_campaign=designshare&utm_medium=link&utm_source=editor'><button>Veja meu curriculo<img className={styles.imagem} src={dowloud}></img></button></a>
 
                 </div>
             </div>

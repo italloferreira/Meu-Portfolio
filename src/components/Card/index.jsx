@@ -18,6 +18,7 @@ function Card({ name, description, html_url }) {
                     rel="noopener noreferrer">
                     <BsArrowRight />
                 </a>
+                
             </div>
         </section>
     )
